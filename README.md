@@ -1,1 +1,11 @@
-# 048412047
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Profil Mahasiswa</title>
+</head>
+<body>
+    <h1>Nama: Nabilah Sestri Nur Aini</h1>
+    <h2>NIM: 048412047</h2>
+</body>
+</html>
